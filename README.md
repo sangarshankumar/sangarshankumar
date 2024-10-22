@@ -2,7 +2,7 @@
 - 👀 I’m interested in econometric and data analysis.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: sangarshankumar@gmail.com
-- 📚 I am currently a student at The Ohio State University, double majoring in economics and statistics
+- 📚 I am currently a second-year undergraduate student at The Ohio State University, double majoring in economics and statistics
 - ⚡ Fun fact: I am a huge fan of martial arts!
 
 <!---
